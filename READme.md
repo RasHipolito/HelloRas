@@ -1,12 +1,12 @@
 ## Hello_From_Ras
 
 ### App Description
-`TODO://` Changes the text color once the button is pressed
+Changes the text color once the button is pressed
 
 ### App Walk-though
-file:///C:/Users/wasit/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs/LICEcap/prework_codepath.gif
+https://giphy.com/gifs/fes2Ah7tS1z9mfZsWj/fullscreen
 
-<img src="file:///C:/Users/wasit/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs/LICEcap/prework_codepath.gif" width=200><br>
+<img src="https://giphy.com/gifs/fes2Ah7tS1z9mfZsWj/fullscreen" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
